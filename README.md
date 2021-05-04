@@ -1,3 +1,4 @@
+![water_logo](images/logo.png)
 # Tanzania Water Points Project
 
 ## Project Goal
